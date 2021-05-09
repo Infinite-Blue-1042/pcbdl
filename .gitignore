@@ -1,19 +1,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
 venv
-
 *.egg-info/
 dist/
 build/
-
 htmlcov/
 .coverage
-
 doc/_build/
-
-# output files
 *.svg
 *.json
 *.html
